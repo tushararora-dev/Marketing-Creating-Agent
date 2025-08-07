@@ -1,4 +1,3 @@
-```bash
 # Marketing Creating Agent 🚀
 
 An AI-powered multi-agent system for automating marketing workflows — from research and strategy to content creation and campaign execution.
